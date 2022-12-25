@@ -30,7 +30,7 @@ Main goals
 - it will self-repair in the event of change
 - it always functions as intended
 - every system file and file group hashed for damage detection and repair (idea tbd)
-- package manager is designed for atomic upgrades and offline installs after download 
+- package manager is designed for atomic upgrades and offline installs after parallel download with diff (understand swupd, pacman, rpm-ostree, transactional-update for fundamental concepts)
 - designed to install from various repositories based on flags or implicit structure
 - lowercase switches (flags as one) for efficient use
 - easy rollback for user packages (we will separate the user and system packages and let them coexist, tbd how)
