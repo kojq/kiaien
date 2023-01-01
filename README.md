@@ -5,27 +5,20 @@ https://en.wiktionary.org/wiki
 
 The name is under reconsideration.
 
-The license is being decided and will likely be MPL 2.0.
+The license is being decided, and MPL 2.0 is being considered.
 
-Any media will be our own.
+## RISC-V and latest x64
+- kernel: latest stable
+- filesystem: btrfs with optimal compression balance
+- security: Secure Boot, TPM 2.0, etc
+- boot manager: rEFInd
+- initramfs generating: booster
+- init: systemd
+- swap: zram
 
-init: systemd
+- fstab, tmpfs
 
-initramfs generating: booster
-
-fs: btrfs with (optimal heuristically determined) compression
-
-ZRAM rather than swap
-
-Sign for Secure Boot
-
-fstab, tmpfs
-
-NVIDIA MOK
-
-x86_64 v3, x86_64 v4, and RISC-V (unlikely, maybe ARM?)
-
-Main goals
+## Main goals
 - the OS protects itself from any modification, as none is allowed
 - it will self-repair in the event of change
 - it always functions as intended
