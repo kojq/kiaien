@@ -63,7 +63,7 @@ The project should be archived if development has concluded. An issue can be ras
 
 ## Features
 
-- RISC-V and latest x64
+- RISC-V
 - kernel: latest stable
 - filesystem: btrfs with optimal compression balance
 - security: Secure Boot, TPM 2.0, etc
@@ -72,6 +72,7 @@ The project should be archived if development has concluded. An issue can be ras
 - init: systemd
 - swap: zram
 - fstab, tmpfs
+- elevated privilege: doas
 
 ## Limitations
 
