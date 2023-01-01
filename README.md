@@ -8,7 +8,7 @@
 
 Lay the foundation of a pragmatic Linux distribution.
 
-The name is under reconsideration. The license is being decided, and MPL 2.0 is being considered.
+The name is under reconsideration. The license is being decided.
 
 ## Usage
 
