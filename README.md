@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "https://openclipart.org/download/306895/1537228771.svg" width = 240/>
+  <img src = "https://raw.githubusercontent.com/kojq/run/main/LOGO.svg" width = 240/>
 
 # Kiaien Linux
 </div>
