@@ -63,7 +63,7 @@ The project should be archived if development has concluded. An issue can be ras
 
 ## Features
 
-- RISC-V
+- ISA: RISC-V
 - kernel: latest stable
 - filesystem: btrfs with optimal compression balance
 - security: Secure Boot, TPM 2.0, etc
@@ -71,8 +71,8 @@ The project should be archived if development has concluded. An issue can be ras
 - initramfs generating: booster
 - init: systemd
 - swap: zram
-- fstab, tmpfs
 - elevated privilege: doas
+- fstab, tmpfs
 
 ## Limitations
 
