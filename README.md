@@ -12,6 +12,8 @@ The name is under reconsideration. The license is being decided.
 
 ## Usage
 
+See [Warnings](#warnings).
+
 Use the latest ISO release. [Ventoy](https://github.com/ventoy/Ventoy) is a suggested bootable USB solution.
 
 Alternatively, fork or clone the repository to make changes, and [Build](#build).
