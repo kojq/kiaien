@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = "https://raw.githubusercontent.com/kojq/run/main/LOGO.svg" width = 240/>
+<!--TBD  <img src = "https://raw.githubusercontent.com/kojq/run/main/LOGO.svg" width = 240/>-->
 
 # Kiaien Linux
 </div>
@@ -93,7 +93,8 @@ Licensing is subject to change at the discretion of [kojq](https://github.com/ko
 
 ## Credits
 
-The *Magnolia grandiflora* SVG is under CC0. It is based on the *[Magnolia flower flor](https://www.openclipart.org/detail/306895/magnolia-flower-flor)* SVG, [uploaded](https://www.openclipart.org/download/306895/1537228771.svg) on September 17, 2018, 11:59 p.m. by artist Betel Leclerc on Openclipart.
+This is placeholder text.
+<!--The *Magnolia grandiflora* SVG is under CC0. It is based on the *[Magnolia flower flor](https://www.openclipart.org/detail/306895/magnolia-flower-flor)* SVG, [uploaded](https://www.openclipart.org/download/306895/1537228771.svg) on September 17, 2018, 11:59 p.m. by artist Betel Leclerc on Openclipart.-->
 
 ## Accessibility
 
