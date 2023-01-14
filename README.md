@@ -74,6 +74,8 @@ The project should be archived if development has concluded. An issue can be ras
 - init: systemd
 - swap: zram
 - elevated privilege: doas
+- network manager: Network manager
+- desktop environment: GNOME
 - fstab, tmpfs
 - exa instead of ls
 - helix instead of vim
