@@ -75,6 +75,7 @@ The project should be archived if development has concluded. An issue can be ras
 - swap: zram
 - elevated privilege: doas
 - fstab, tmpfs
+- exa instead of ls
 
 ## Limitations
 
