@@ -79,6 +79,7 @@ The project should be archived if development has concluded. An issue can be ras
 - fstab, tmpfs
 - exa instead of ls
 - helix instead of vim
+- default force user to have a password with doas access during creation with no root or administrator account
 
 ## Limitations
 
