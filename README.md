@@ -76,6 +76,7 @@ The project should be archived if development has concluded. An issue can be ras
 - elevated privilege: doas
 - fstab, tmpfs
 - exa instead of ls
+- helix instead of vim
 
 ## Limitations
 
