@@ -81,6 +81,7 @@ The project should be archived if development has concluded. An issue can be ras
 - helix instead of vim
 - account: by default, encourages password, doas access, and no root or administrator access
 - account: changes can be made during the install process
+- account: enforce lack of doas access to result in root access to prevent potential lockout (needs citation)
 
 ## Limitations
 
