@@ -75,7 +75,7 @@ The project should be archived if development has concluded. An issue can be ras
 - swap: zram
 - elevated privilege: doas
 - network manager: NetworkManager
-- desktop environment: GNOME
+- desktop environment: COSMIC or GNOME
 - fstab, tmpfs
 - exa or lsd instead of ls
 - helix instead of vim
