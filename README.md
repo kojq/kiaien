@@ -77,6 +77,7 @@ The project should be archived if development has concluded. An issue can be ras
 - network manager: NetworkManager
 - desktop environment: COSMIC or GNOME
 - fstab, tmpfs
+- uutils instead of coreutils
 - exa or lsd instead of ls
 - helix instead of vim
 - account: by default, encourages password, doas access, and no root or administrator access
