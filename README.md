@@ -67,7 +67,7 @@ The project should be archived if development has concluded. An issue can be ras
 
 - ISA: RISC-V
 - kernel: latest stable
-- filesystem: btrfs with optimal compression balance
+- filesystem: ssdfs for NVMe ZNS SSDs or btrfs with optimal compression balance
 - security: Secure Boot, TPM 2.0, etc
 - boot manager: rEFInd
 - initramfs generating: booster
