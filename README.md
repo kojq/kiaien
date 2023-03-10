@@ -4,6 +4,10 @@
 # Kiaien Linux
 </div>
 
+## Community
+
+Feel free to [join the Discord server](https://discord.gg/peezNh4pS4).
+
 ## About
 
 Lay the foundation of a pragmatic Linux distribution.
@@ -18,9 +22,30 @@ Use the latest ISO release. [Ventoy](https://github.com/ventoy/Ventoy) is a sugg
 
 Alternatively, fork or clone the repository to make changes, and [Build](#build).
 
-## Community
+## Warnings
 
-Feel free to join the Discord server [here](https://discord.gg/hgGxdbvC).
+- The project does not currently exist
+
+## Features
+
+- ISA: RISC-V
+- kernel: latest stable
+- filesystem: ssdfs for NVMe ZNS SSDs or btrfs with optimal compression balance
+- security: Secure Boot, TPM 2.0, etc
+- boot manager: rEFInd
+- initramfs generating: booster
+- init: systemd
+- swap: zram
+- elevated privilege: doas
+- network manager: NetworkManager
+- desktop environment: COSMIC or GNOME
+- fstab, tmpfs
+- uutils instead of coreutils
+- exa or lsd instead of ls
+- helix instead of vim
+- account: by default, encourages password, doas access, and no root or administrator access
+- account: changes can be made during the install process
+- account: enforce lack of doas access to result in root access to prevent potential lockout (needs citation)
 
 ## Activity
 
@@ -48,50 +73,10 @@ If activity is not seen in this repository after 90 days, the project has likely
 
 The project should be archived if development has concluded. An issue can be rasied to archive the repository in this case.
 
-## TODO
-
-- the OS protects itself from any modification, as none is allowed
-- it will self-repair in the event of change
-- it always functions as intended
-- every system file and file group hashed for damage detection and repair (idea tbd)
-- package manager is designed for atomic upgrades and offline installs after parallel download with diff (understand swupd, pacman, rpm-ostree, transactional-update for fundamental concepts)
-- designed to install from various repositories based on flags or implicit structure
-- lowercase switches (flags as one) for efficient use
-- easy rollback for user packages (we will separate the user and system packages and let them coexist, tbd how)
-
-## Warnings
-
-- The project does not currently exist
-
-## Features
-
-- ISA: RISC-V
-- kernel: latest stable
-- filesystem: ssdfs for NVMe ZNS SSDs or btrfs with optimal compression balance
-- security: Secure Boot, TPM 2.0, etc
-- boot manager: rEFInd
-- initramfs generating: booster
-- init: systemd
-- swap: zram
-- elevated privilege: doas
-- network manager: NetworkManager
-- desktop environment: COSMIC or GNOME
-- fstab, tmpfs
-- uutils instead of coreutils
-- exa or lsd instead of ls
-- helix instead of vim
-- account: by default, encourages password, doas access, and no root or administrator access
-- account: changes can be made during the install process
-- account: enforce lack of doas access to result in root access to prevent potential lockout (needs citation)
-
 ## Limitations
 
 - The premise will remain exactly as described in [About](#about)
-- Sensible suggestions to change the premise are welcome if assistance will be provided
-
-## Build
-
-There are currently no build instructions.
+- Sensible suggestions to change the premise are welcome
 
 ## Contribution
 
@@ -101,11 +86,15 @@ Disrespect is not tolerated. A contribution is welcome if it does not violate [L
 
 Licensing is subject to change at the discretion of [kojq](https://github.com/kojq).
 
+## Accessibility
+
+This markdown file is meant to be practical, consistent, and comprehensive. Please reach out with an issue or via [Community](#community) for suggestions.
+
+## Build
+
+There are currently no build instructions.
+
 ## Credits
 
 This is placeholder text.
 <!--The *Magnolia grandiflora* SVG is under CC0. It is based on the *[Magnolia flower flor](https://www.openclipart.org/detail/306895/magnolia-flower-flor)* SVG, [uploaded](https://www.openclipart.org/download/306895/1537228771.svg) on September 17, 2018, 11:59 p.m. by artist Betel Leclerc on Openclipart.-->
-
-## Accessibility
-
-This markdown file is meant to be practical, consistent, and comprehensive. Please reach out with an issue or via [Community](#community) for suggestions.
