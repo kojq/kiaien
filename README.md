@@ -8,17 +8,15 @@
 
 Feel free to [join the Discord server](https://discord.gg/peezNh4pS4).
 
-## Usage
+## Warnings
 
-See [Warnings](#warnings).
+- The project does not currently exist
+
+## Usage
 
 Use the latest ISO release. [Ventoy](https://github.com/ventoy/Ventoy) is a suggested bootable USB solution.
 
 Alternatively, fork or clone the repository to make changes, and [Build](#build).
-
-## Warnings
-
-- The project does not currently exist
 
 ## Features
 
