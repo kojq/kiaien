@@ -8,12 +8,6 @@
 
 Feel free to [join the Discord server](https://discord.gg/peezNh4pS4).
 
-## About
-
-Lay the foundation of a pragmatic Linux distribution.
-
-The name is under reconsideration. The license is being decided.
-
 ## Usage
 
 See [Warnings](#warnings).
